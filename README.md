@@ -1,6 +1,6 @@
 # Steel Manufacturing Process Simulation & Optimization (AnyLogic + Python)
 
-> **Project Status:** part of my academic Industrial Engineering project (Fall 2026). 
+> **Project Status:** part of my academic Industrial Engineering (Modeling and Simulation) program (Fall 2026). 
 
 
 A hybrid **Discrete-Event and System Dynamics simulation** of a steel manufacturing facility built in **AnyLogic**, paired with a **Python** post-processing pipeline to analyze production throughput, slab processing times, and input-rate optimization experiments.
